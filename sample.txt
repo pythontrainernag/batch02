@@ -1,1 +1,19 @@
-sample
+one time task
+
+1. login
+2. create repository(+ symbol new repository)
+	1. name
+	2. license 
+	3. create repository
+3. copy the url from code 
+4. go to folder, right clock and click on "git bash here"
+5. git clone <copied url>
+
+
+regular task
+
+1. make the changes to existing files or create new files 
+2. go to git bash by using right click 
+3. git add .
+4. git commit -m "<message>"  ---> initially you need to configure email and username
+5. git push ----> authentication
